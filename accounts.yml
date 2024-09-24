@@ -2,5 +2,5 @@ build:
   version: 1.0
 ambiente: "dev"
 db_host: "https://dev.miaapp.it"
-db_user: "pippo"
+db_user: "pippo111111"
 db_pass: "{cipher}56b360105a9327f9481a54fb2370ee2578babaa4eeab2ee5a017b4be25c6b301"
